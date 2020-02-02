@@ -1,2 +1,0 @@
-# snapdesigners.github.io
-website

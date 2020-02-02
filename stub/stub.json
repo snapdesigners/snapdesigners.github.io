@@ -1,0 +1,165 @@
+{
+  "title": "Snap Designers",
+  "navLinks": [{
+    "navTitle": "Home"
+  },{
+    "navTitle": "Projects"
+  }],
+  "banner": {
+    "title": "Complete Solution for",
+    "subTitle": "Interior and Modular Kitchen",
+    "location": "Snap Designers"
+  },
+  "aboutUs": {
+    "title": "Welcome to Snap Designers",
+    "content": [{
+      "msg": "“NAMASKAR” We “Snap Designers” provides you complete kitchen solutions. We believe in innovative and efficient designs and excellent craftsmanship."
+    }],
+    "specialContent": [{
+      "title": "Quality Statement",
+      "msg": [
+        {"msg":"Our aim is to deliver excellent kitchen & kitchen accessories to our customers and bring in classic innovations that will ease the customer’s life and provide maximum value. Our products are customised to make our customer’s life ease in every way possible."}
+      ]
+    },{
+      "title": "Inspiration",
+      "msg": [
+        {"msg":"Looking for a way to spice up your kitchen to complement your home? Find the answers along with tips and tricks that will make your life easy right here."},
+        {"msg":"We believe in having a great work - life balance and maintain working hours that will ensure you have one too Search. The space constraints make it difficult to create a proper kitchen triangle, and this is where the ingenuity of the designer comes into play in creating a fully functional kitchen in a limited area. By placing the cooking hob / cooking range near the window, the first problem tackled is the need for adequate ventilation. Snap Designers customised kitchen cabinets lend a clean and bright feel to the space."}
+      ]
+    },{
+      "title": "Solutions for End-to-End",
+      "msg": [
+        {"msg":"Right from planning to execution, we provide comprehensive solutions in the projects segment."}
+      ]
+    },{
+      "title": "Experience",
+      "msg": [
+        {"msg":"On an average, we execute over 200 kitchens in the projects segment and have more than decades of experience dealing with large projects."}
+      ]
+    },{
+      "title": "Delivery",
+      "msg": [
+        {"msg":"We specialise in the timely delivery of kitchens. Our kitchens are inspected thoroughly and delivered on site."}
+      ]
+    }]
+  },
+  "products": [{
+      "title": "rice",
+      "img": "rice",
+      "msgOnThumbnail": "The packaging of Rice is availabe in 10KG, 20KG, 25KG and 30KG.",
+      "productDetails": [{
+        "msg": "The packaging of Rice is availabe in 10KG, 20KG, 25KG and 30KG."
+      }],
+      "productBrands": [{
+          "brandName":"Basmati",
+          "brandtypes": [{
+            "brandtype": "Steam",
+            "details": [{
+                "msg": "We have Silver type in Basmati Steam brand. We have different variations in it like Silver Pearl, Silver Star, Silver Gold, Silver Regular, Silver Platinum with 10 KG packing variety."
+              },{
+                "msg": "We have Rizwan type in Basmati Steam brand. We have different variations in it like Rizwan Delight, Rizwan Everyday, Rizwan Mini Mogra, Rizwan Regular with 10 KG packing variety."
+              },{
+                "msg": "We have Ruchi Bhog type in Basmati Steam brand. We have different variations in it like Ruchi Bhog Best, Ruchi Bhog Dubar, Ruchi Bhog Gold Biryani, Ruchi Bhog Hyderabadi, Ruchi Bhog Mughlai, Ruchi Bhog Super Mogra, Ruchi Bhog Tini with 10 KG packing variety."
+              },{
+                "msg": "We have Shahabzada type in Basmati Steam brand. We have different variations in it like Shahabzada Super Mogra, Shahabzada Mini Dubar, Shahabzada Premium, Shahabzada Dubar, Shahabzada Special with 10 KG packing variety."
+              },{
+                "msg": "We have Al Abrar type in Basmati Steam brand. We have Al Abrar Tini variations in itin 10 KG packing"
+              },{
+                "msg": "Likewise we have different types in Basmati Steam brand as Grand India in 20 KG Packing, Khushiyon Ke Pal in 20 KG Packing, Swagat Super in 20 KG Packing,00aarif 40 KG Packing, Badhai Basmati in 25 KG Packing"
+            }]
+          },{
+            "brandtype": "Non Steam",
+            "details": [{
+                "msg": "We have Silver type in Basmati Steam brand. We have different variations in it like Silver Pearl, Silver Star, Silver Gold, Silver Regular, Silver Platinum with 10 KG packing variety."
+              },{
+                "msg": "We have Rizwan type in Basmati Steam brand. We have different variations in it like Rizwan Delight, Rizwan Everyday, Rizwan Mini Mogra, Rizwan Regular with 10 KG packing variety."
+              },{
+                "msg": "We have Ruchi Bhog type in Basmati Steam brand. We have different variations in it like Ruchi Bhog Best, Ruchi Bhog Dubar, Ruchi Bhog Gold Biryani, Ruchi Bhog Hyderabadi, Ruchi Bhog Mughlai, Ruchi Bhog Super Mogra, Ruchi Bhog Tini with 10 KG packing variety."
+              },{
+                "msg": "We have Shahabzada type in Basmati Steam brand. We have different variations in it like Shahabzada Super Mogra, Shahabzada Mini Dubar, Shahabzada Premium, Shahabzada Dubar, Shahabzada Special with 10 KG packing variety."
+              },{
+                "msg": "We have Al Abrar type in Basmati Steam brand. We have Al Abrar Tini variations in itin 10 KG packing"
+              },{
+                "msg": "Likewise we have different types in Basmati Steam brand as Grand India in 20 KG Packing, Khushiyon Ke Pal in 20 KG Packing, Swagat Super in 20 KG Packing,00aarif 40 KG Packing, Badhai Basmati in 25 KG Packing"
+            }]
+          }]
+        }]
+    },{
+      "title": "Jwari",
+      "img": "jwari",
+      "msgOnThumbnail": "The packaging of Jwari is availabe in 30KG and 50KG.",
+      "productDetails": [{
+        "msg": "The packaging of Jwari is availabe in 30KG and 50KG."
+      }]
+    },{
+      "title": "wheat",
+      "img": "wheat",
+      "msgOnThumbnail": "The packaging of Wheat is available in 30KG.",
+      "productDetails": [{
+        "msg": "The packaging of Wheat is available in 30KG."
+      }]
+    },{
+      "title": "chana dal",
+      "img": "chana-dal",
+      "msgOnThumbnail": "The packaging of Chana Dal is availabe in 25KG, 30KG and 50KG.",
+      "productDetails": [{
+        "msg": "The packaging of Chana Dal is availabe in 25KG, 30KG and 50KG."
+      }]
+    },{
+      "title": "masoor dal",
+      "img": "masoor-dal",
+      "msgOnThumbnail": "The packaging of Masur Daal is availabe in 30KG",
+      "productDetails": [{
+        "msg": "The packaging of Masur Daal is availabe in 30KG"
+      }]
+    },{
+      "title": "moog dal",
+      "img": "moog-dal",
+      "msgOnThumbnail": "The packaging of Moong Dal is availabe in 30KG",
+      "productDetails": [{
+        "msg": "The packaging of Moong Dal is availabe in 30KG"
+      }]
+    },{
+      "title": "poha",
+      "img": "poha",
+      "msgOnThumbnail": "The packaging of Poha is available in 25KG and 30KG",
+      "productDetails": [{
+        "msg": "The packaging of Poha is available in 25KG and 30KG"
+      }]
+    },{
+      "title": "toor dal",
+      "img": "toor-dal",
+      "msgOnThumbnail": "The packaging of Toor Dal is availabe in 30KG",
+      "productDetails": [{
+        "msg": "The packaging of Toor Dal is availabe in 30KG"
+      }]
+    },{
+      "title": "Wheat Atta",
+      "img": "wheat-atta",
+      "msgOnThumbnail": "The packaging of Wheat Atta is availabe in 30KG (5KG * 6 & 10KG * 3)",
+      "productDetails": [{
+        "msg": "The packaging of Wheat Atta is availabe in 30KG (5KG * 6 & 10KG * 3)"
+      }]
+    },{
+      "title": "bajri",
+      "img": "bajri",
+      "msgOnThumbnail": "The packaging of Bajari is availabe in 50KG and 30KG.",
+      "productDetails": [{
+        "msg": "The packaging of Bajari is availabe in 50KG and 30KG."
+      }]
+    }
+  ],
+  "team": [{
+    "imgPath": "",
+    "title": "Mr. Shekhar Patole",
+    "details": "With 30 years of work experience, I am continuously working towards the innovation & quality improvement of our products"
+  }],
+  "contactUs": {
+    "officeAddres": "Flat no 2, ground floor, sagar apartment, sudarshan nagar, chinchawad, pune. 411033",
+    "phoneNumber": "+91-9822828281",
+    "Email Address": "shekharpatole@rediffmail.com, shekharpatole1970@gmail.com",
+    "map": "contactMap.jpg",
+    "mapPath": "https://goo.gl/maps/8hRkR9aBvNjtUXvz7"
+  },
+  "foooter": "Yogesh Krishna Jadhav"
+}
